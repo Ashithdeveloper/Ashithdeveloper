@@ -165,3 +165,11 @@ Full-stack e-commerce platform with admin dashboard, authentication, and order m
 ### ⚡ "Building Scalable Applications That Solve Real-World Problems"
 
 </div>
+<h2>🐍 Contribution Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ashithdeveloper/Ashithdeveloper/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Ashithdeveloper/Ashithdeveloper/output/github-contribution-grid-snake.svg">
+</picture>
