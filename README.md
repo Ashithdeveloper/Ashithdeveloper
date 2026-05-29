@@ -73,9 +73,9 @@ const ashith = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight)
 
 </div>
 
