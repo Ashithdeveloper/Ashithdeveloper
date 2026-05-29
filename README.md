@@ -73,9 +73,9 @@ const ashith = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight"/>
 
 </div>
 
