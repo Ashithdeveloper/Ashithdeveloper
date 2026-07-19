@@ -124,6 +124,12 @@ Cross-platform real-time messaging application with media sharing and group chat
 
 Full-stack e-commerce platform with admin dashboard, authentication, and order management.
 
+### 📊 LeetCode Monitoring System
+
+Automated LeetCode tracking platform for college placements that syncs student coding statistics every 24 hours, stores a 7-day performance history, and provides role-based dashboards for Super Admins and Admins to monitor coding progress and eliminate manual tracking.
+
+
+
 ---
 
 ## 🌱 Currently Learning
