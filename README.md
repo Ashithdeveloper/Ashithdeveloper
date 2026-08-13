@@ -82,16 +82,11 @@ const ashith = {
 
 <div align="center">
 
-<a href="https://github.com/Ashithdeveloper">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://github-stats-extended.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<a href="https://github.com/Ashithdeveloper">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 
 </div>
-
 ---
 
 ## 📊 Contribution Activity
