@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:36BCF7,100:8E2DE2&height=220&section=header&text=Ashith%20S.F&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20React%20Native%20%7C%20AI%20Integration&descAlignY=58&descSize=20" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Ashith+S.F;Full+Stack+Developer;MERN+Stack+Developer;React+Native+Developer;Hackathon+Winner+%F0%9F%8F%86;Building+AI-Powered+Applications" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ashith+S.F;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+React+Native+%F0%9F%93%B1;Hackathon+Winner+%F0%9F%8F%86;Building+AI-Powered+Applications+%F0%9F%A4%96" />
+<br/>
 
-<br/><br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="450"/>
+# 🚀 Ashith S.F
 
-<img src="https://komarev.com/ghpvc/?username=Ashithdeveloper&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+### Full Stack Developer | MERN Stack | React Native | AI Integration
+
+<img src="https://komarev.com/ghpvc/?username=Ashithdeveloper&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -75,11 +77,13 @@ const ashith = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashithdeveloper&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight"/>
 
 </div>
 
