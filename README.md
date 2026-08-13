@@ -195,5 +195,3 @@ Automated LeetCode tracking platform for college placements that syncs student c
 </picture>
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:8E2DE2,100:36BCF7&height=120&section=footer&animation=twinkling" />
