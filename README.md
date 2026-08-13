@@ -77,13 +77,15 @@ const ashith = {
 
 ---
 
+
+
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 
 </div>
 
