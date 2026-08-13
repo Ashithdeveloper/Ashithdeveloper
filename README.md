@@ -76,7 +76,8 @@ const ashith = {
 **Also working with:** Socket.IO • Zustand • JWT Auth • Role-Based Access Control • AI/LLM Integration (Ollama, Gemini AI) • Cloudinary • Playwright
 
 ---
-
+📊 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashithdeveloper&theme=react-dark&hide_border=true&area=true" width="95%"/> </div>
 ## 📈 GitHub Statistics
 
 <div align="center">
