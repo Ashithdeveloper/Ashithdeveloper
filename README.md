@@ -18,23 +18,29 @@
 
 ## 👨‍💻 About Me
 
+Full Stack Developer with hands-on experience building web and mobile applications using the **MERN stack** and **React Native**, specializing in real-time systems and AI-integrated products. Inter-college hackathon winner and team leader who has led five-plus person teams to first-place finishes across multiple competitions. Currently building a real-time, **AI-Enabled Water Quality Monitoring System** as my final year project.
+
 ```javascript
 const ashith = {
     role: "Full Stack Developer",
-    education: "B.E Computer Science & Engineering",
+    location: "Kanniyakumari, Tamil Nadu, India",
+    education: "B.E Computer Science & Engineering (2023 - 2027)",
     college: "Mar Ephraem College of Engineering and Technology",
-    specialization: [
-        "MERN Stack",
-        "React Native",
-        "AI Integration",
-        "Real-Time Applications"
+    coreStrengths: [
+        "Full-Stack Development",
+        "AI/LLM Integration",
+        "Real-Time Systems",
+        "REST API Design",
+        "Rapid Prototyping",
+        "Team Leadership"
     ],
     currentFocus: "AI-Enabled Water Quality Monitoring System",
     achievements: [
-        "🏆 CodeXtreme 2026 Hackathon - 1st Prize",
-        "🥈 Inter College Hackathon Runner-Up",
-        "🥇 Intra College Hackathon Winner",
-        "🥇 Technical Paper Presentation Winner"
+        "🏆 CodeXtreme 2026 - 24hr Hackathon - 1st Prize",
+        "🥈 Inter-College Hackathon - 1st Runner-Up",
+        "🥇 Intra-College Hackathon Winner",
+        "🥇 Technical Paper Presentation Winner",
+        "🥉 Inter-College Innovation Project Competition - 3rd Place"
     ]
 }
 ```
@@ -61,11 +67,13 @@ const ashith = {
 <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### Tools
+### Tools & Practices
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+**Also working with:** Socket.IO • Zustand • JWT Auth • Role-Based Access Control • AI/LLM Integration (Ollama, Gemini AI) • Cloudinary • Playwright
 
 ---
 
@@ -93,42 +101,47 @@ const ashith = {
 
 ## 🏆 Achievements
 
-* 🥇 CodeXtreme 2026 - 24 Hour Hackathon Winner
-* 🥈 Inter-College Hackathon Runner-Up
-* 🥇 Intra-College Hackathon Winner
-* 🥇 Technical Paper Presentation Winner
-* 🥉 Inter-College Innovation Project Competition
-* 👨‍💻 Team Leader - A4-TechSentinels
+* 🥇 **1st Prize** — CodeXtreme 2026, 24-Hour Hackathon (Dec 2025)
+* 🥈 **1st Runner-Up** — Inter-College Hackathon, 8-Hour Development Challenge (Dec 2024)
+* 🥇 **1st Prize** — Intra-College Hackathon (Dec 2024)
+* 🥇 **1st Prize** — Technical Paper Presentation Competition (Dec 2024)
+* 🥉 **3rd Place** — Inter-College Innovation Project Competition (Dec 2023)
+* 👨‍💻 Team Leader — A4-TechSentinels Hackathon Team
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 OpTrackAI
+### 🎯 OpTrackAI — *CodeXtreme 2026, 1st Prize*
+**Role:** Team Leader & Full Stack Developer
+**Stack:** React.js, Node.js, Express.js, MongoDB Atlas, Ollama, Playwright
+AI-powered opportunity intelligence platform that aggregates jobs, hackathons, and internships from LinkedIn and Unstop into a single dashboard via automated Playwright scraping (refreshed every 4 hours), with a local-LLM AI mentor (Ollama) for personalized recommendations and career guidance.
+`GitHub: Ashithdeveloper/opTrackAI`
 
-AI-powered opportunity intelligence engine that aggregates jobs, hackathons, internships, and career opportunities with personalized AI recommendations.
+### 🎓 StudentVoice — *Inter-College Hackathon, 1st Runner-Up*
+**Role:** Team Leader & Full Stack Developer
+**Stack:** React Native, React.js, Node.js, Express.js, MongoDB Atlas, Gemini AI, JWT
+Cross-platform college survey app with AI-powered ID verification, live selfie validation, Gemini-driven survey analytics and mentorship, role-based access control, and real-time community chat with media sharing.
+`GitHub: Ashithdeveloper/Student_Voice_App`
 
-### 🎓 StudentVoice
-
-AI-powered college survey and mentorship platform with ID verification, analytics, and community features.
-
-### 🌍 Knowverse
-
-Knowledge-sharing social platform promoting educational and ethical content.
+### 🌍 Knowverse — *Inter-College Innovation Project, 3rd Prize*
+**Role:** Team Leader & Full Stack Developer
+**Stack:** MERN Stack, Tailwind CSS, Firebase
+Scalable knowledge-sharing platform promoting ethical, educational content, with secure authentication, role-based moderation, and real-time post management.
+`GitHub: Ashithdeveloper/Knowverse-Project`
 
 ### 💬 MessageMe
+**Stack:** React Native, Express.js (TypeScript), MongoDB, Cloudinary, JWT
+Cross-platform real-time messaging app supporting one-to-one and group chat, media uploads via Cloudinary, JWT authentication, and scalable REST APIs.
+`GitHub: Ashithdeveloper/MessageMe`
 
-Cross-platform real-time messaging application with media sharing and group chat.
-
-### 🛒 MERN E-Commerce
-
-Full-stack e-commerce platform with admin dashboard, authentication, and order management.
+### 🛒 MERN E-Commerce Platform
+**Stack:** React.js, Tailwind CSS, Express.js, MongoDB, Cloudinary, JWT
+Full-stack shopping application with complete CRUD functionality and an admin panel for managing products, categories, and orders.
+`GitHub: Ashithdeveloper/E-commerce_MERN_A4`
 
 ### 📊 LeetCode Monitoring System
-
 Automated LeetCode tracking platform for college placements that syncs student coding statistics every 24 hours, stores a 7-day performance history, and provides role-based dashboards for Super Admins and Admins to monitor coding progress and eliminate manual tracking.
-
-
 
 ---
 
@@ -171,6 +184,7 @@ Automated LeetCode tracking platform for college placements that syncs student c
 ### ⚡ "Building Scalable Applications That Solve Real-World Problems"
 
 </div>
+
 <h2>🐍 Contribution Snake</h2>
 
 <picture>
