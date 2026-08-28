@@ -82,7 +82,7 @@ const ashith = {
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Ashithdeveloper&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="48%" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashithdeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 
