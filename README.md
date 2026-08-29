@@ -89,26 +89,16 @@ const ashith = {
 </div>
 ---
 
-<h2>🐍 Contribution Activity</h2>
+## 🔥 Contribution Streak
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ashithdeveloper/Ashithdeveloper/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ashithdeveloper/Ashithdeveloper/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution activity"
-      src="https://raw.githubusercontent.com/Ashithdeveloper/Ashithdeveloper/output/github-contribution-grid-snake.svg"
-      width="95%"
-    />
-  </picture>
-</p>
+<div align="center">
 
+<img
+  src="https://streak-stats.demolab.com/?user=Ashithdeveloper&theme=tokyonight&hide_border=true"
+  width="60%"
+/>
+
+</div>
 ---
 
 ## 🏆 Achievements
