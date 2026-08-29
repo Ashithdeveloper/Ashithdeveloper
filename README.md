@@ -93,8 +93,7 @@ const ashith = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashithdeveloper&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashithdeveloper&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
