@@ -89,13 +89,25 @@ const ashith = {
 </div>
 ---
 
-## 📊 Contribution Activity
+<h2>🐍 Contribution Activity</h2>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashithdeveloper&theme=react-dark&hide_border=true&area=true" width="95%"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ashithdeveloper/Ashithdeveloper/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ashithdeveloper/Ashithdeveloper/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution activity"
+      src="https://raw.githubusercontent.com/Ashithdeveloper/Ashithdeveloper/output/github-contribution-grid-snake.svg"
+      width="95%"
+    />
+  </picture>
+</p>
 
 ---
 
