@@ -92,11 +92,7 @@ const ashith = {
 ## 🔥 Contribution Streak
 
 <div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Ashithdeveloper&theme=tokyonight&hide_border=true"
-  width="60%"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashithdeveloper&theme=react-dark&hide_border=true" width="48%"/>
 
 </div>
 ---
