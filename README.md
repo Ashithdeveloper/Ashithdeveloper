@@ -58,7 +58,7 @@ const ashith = {
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,docker,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis" />
 </p>
 
 ### Mobile Development
@@ -70,7 +70,7 @@ const ashith = {
 ### Tools & Practices
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 **Also working with:** Socket.IO • Zustand • JWT Auth • Role-Based Access Control • AI/LLM Integration (Ollama, Gemini AI) • Cloudinary • Playwright
