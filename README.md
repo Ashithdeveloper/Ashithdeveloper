@@ -58,7 +58,7 @@ const ashith = {
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,docker,redis" />
 </p>
 
 ### Mobile Development
