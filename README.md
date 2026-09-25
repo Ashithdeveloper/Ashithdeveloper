@@ -98,7 +98,7 @@ const ashith = {
 
 ## 🏆 Achievements
 
-* 🥇 **1st Prize** — CodeXtreme 2026, 24-Hour Hackathon (Dec 2025)
+* 🥇 **1st Prize** — CodeXtreme 2026, 24-Hour Hackathon (Dec 2026)
 * 🥈 **1st Runner-Up** — EduSprint 2025 Hackathon, 8-Hour Development Challenge (Dec 2024)
 * 🥇 **1st Prize** — Intra-College Hackathon (Dec 2024)
 * 🥇 **1st Prize** — Technical Paper Presentation Competition (Dec 2024)
