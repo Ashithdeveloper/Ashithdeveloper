@@ -41,6 +41,7 @@ const ashith = {
         "🥇 Intra-College Hackathon Winner",
         "🥇 Technical Paper Presentation Winner",
         "🥉 Inter-College Innovation Project Competition - 3rd Place"
+        "🥇 Intra-College MAR NXT – 24 - 1st Prize ",
     ]
 }
 ```
@@ -98,11 +99,12 @@ const ashith = {
 
 ## 🏆 Achievements
 
-* 🥇 **1st Prize** — CodeXtreme 2026, 24-Hour Hackathon (Dec 2026)
-* 🥈 **1st Runner-Up** — EduSprint 2025 Hackathon, 8-Hour Development Challenge (Dec 2024)
-* 🥇 **1st Prize** — Intra-College Hackathon (Dec 2024)
-* 🥇 **1st Prize** — Technical Paper Presentation Competition (Dec 2024)
-* 🥉 **3rd Place** — Inter-College Innovation Project Competition (Dec 2023)
+* 🥇 **1st Prize** — CodeXtreme 2026, 24-Hour Hackathon (2026)
+* 🥈 **1st Runner-Up** — EduSprint 2025 Hackathon, 8-Hour Development Challenge ( 2025 )
+* 🥇 **1st Prize** — Intra-College Hackathon (2025)
+* 🥈 **2nd Prize** — Technical Paper Presentation Competition (2025)
+* 🥉 **3rd Place** — Inter-College Innovation Project Competition (2024)
+* 🥉 **1st Prize** — Intra-College MAR NXT – 24 (2024)
 * 👨‍💻 Team Leader — A4-TechSentinels Hackathon Team
 
 ---
