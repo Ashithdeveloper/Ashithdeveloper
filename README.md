@@ -111,13 +111,13 @@ const ashith = {
 
 ## 🚀 Featured Projects
 
-### 🎯 OpTrackAI — *CodeXtreme 2026, 1st Prize*
+### 🎯 OpTrackAI — *CodeXtreme 2026 24hr hackathon, 1st Prize*
 **Role:** Team Leader & Full Stack Developer
 **Stack:** React.js, Node.js, Express.js, MongoDB Atlas, Ollama, Playwright
 AI-powered opportunity intelligence platform that aggregates jobs, hackathons, and internships from LinkedIn and Unstop into a single dashboard via automated Playwright scraping (refreshed every 4 hours), with a local-LLM AI mentor (Ollama) for personalized recommendations and career guidance.
 `GitHub: Ashithdeveloper/opTrackAI`
 
-### 🎓 StudentVoice — *EduSprint 2025 Hackathon, 1st Runner-Up*
+### 🎓 StudentVoice — *EduSprint 2025 8hr Hackathon, 1st Runner-Up*
 **Role:** Team Leader & Full Stack Developer
 **Stack:** React Native, React.js, Node.js, Express.js, MongoDB Atlas, Gemini AI, JWT
 Cross-platform college survey app with AI-powered ID verification, live selfie validation, Gemini-driven survey analytics and mentorship, role-based access control, and real-time community chat with media sharing.
