@@ -130,7 +130,7 @@ Scalable knowledge-sharing platform promoting ethical, educational content, with
 `GitHub: Ashithdeveloper/Knowverse-Project`
 
 ### 💬 MessageMe
-**Stack:** React Native, Express.js (TypeScript), MongoDB, Cloudinary, JWT
+**Stack:** React Native, Express.js (TypeScript), MongoDB, Cloudinary, JWT .
 Cross-platform real-time messaging app supporting one-to-one and group chat, media uploads via Cloudinary, JWT authentication, and scalable REST APIs.
 `GitHub: Ashithdeveloper/MessageMe`
 
