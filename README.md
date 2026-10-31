@@ -36,7 +36,7 @@ const ashith = {
     ],
     currentFocus: "AI-Enabled Water Quality Monitoring System",
     achievements: [
-        "🥉 2nd Runner-Up — HackEX 2026 36-Hour Hackathon ( 2026 ) "
+        "🥉 HackEX 2026 36-Hour Hackathon ( 2026 ) -  2nd Runner-Up "
         "🏆 CodeXtreme 2026 - 24hr Hackathon - 1st Prize",
         "🥈 EduSprint 2025 Hackathon - 1st Runner-Up",
         "🥇 Intra-College Hackathon Winner",
