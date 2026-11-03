@@ -32,7 +32,7 @@ const ashith = {
         "Real-Time Systems",
         "REST API Design",
         "Rapid Prototyping",
-        "Team Leadership"
+        "Team Leadership" .
     ],
     currentFocus: "AI-Enabled Water Quality Monitoring System",
     achievements: [
