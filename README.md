@@ -41,7 +41,7 @@ const ashith = {
         "🥈 EduSprint 2025 Hackathon - 1st Runner-Up",
         "🥇 Intra-College Hackathon Winner",
         "🥇 Technical Paper Presentation Winner",
-        "🥉 Inter-College Innovation Project Competition - 3rd Place"
+        "🥉 Inter-College Innovation Project Competition - 3rd Place" ,
         "🥇 Intra-College MAR NXT – 24 - 1st Prize ",
     ]
 }
