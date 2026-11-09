@@ -27,11 +27,11 @@ const ashith = {
     education: "B.E Computer Science & Engineering (2023 - 2027)",
     college: "Mar Ephraem College of Engineering and Technology",
     coreStrengths: [
-        "Full-Stack Development",
+        "Full-Stack Development"
         "AI/LLM Integration",
-        "Real-Time Systems",
-        "REST API Design",
-        "Rapid Prototyping",
+        "Real-Time Systems"
+        "REST API Design"
+        "Rapid Prototyping"
         "Team Leadership" .
     ],
     currentFocus: "AI-Enabled Water Quality Monitoring System",
