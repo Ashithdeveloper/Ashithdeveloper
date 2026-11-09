@@ -29,9 +29,9 @@ const ashith = {
     coreStrengths: [
         "Full-Stack Development"
         "AI/LLM Integration",
-        "Real-Time Systems"
-        "REST API Design"
-        "Rapid Prototyping"
+        "Real-Time Systems",
+        "REST API Design",
+        "Rapid Prototyping",
         "Team Leadership" .
     ],
     currentFocus: "AI-Enabled Water Quality Monitoring System",
