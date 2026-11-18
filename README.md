@@ -42,7 +42,7 @@ const ashith = {
         "🥇 Intra-College Hackathon Winner" ,
         "🥇 Technical Paper Presentation Winner", 
         "🥉 Inter-College Innovation Project Competition - 3rd Place" ,
-        "🥇 Intra-College MAR NXT – 24 - 1st Prize " ,
+        "🥇 Intra-College MAR NXT – 24 - 1st Prize " .
     ]
 }
 ```
